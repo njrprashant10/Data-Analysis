@@ -10,7 +10,7 @@ An exploratory analysis of **500 consumer survey responses** to understand how p
 | --- | --- |
 | [`consumer_shopping_behavior_survey.csv`](Ecommerce/consumer_shopping_behavior_survey.csv) | Survey dataset (500 rows, 30 columns) |
 | [`data_analysis.ipynb`](Ecommerce/data_analysis.ipynb) | Data preparation, exploratory analysis, summary tables, and charts |
-| [`assets/`](assets/) | PNG exports of every visualization in the notebook |
+| [`assets/`](Ecommerce/assets/) | PNG exports of every visualization in the notebook |
 
 ## Questions Explored
 
