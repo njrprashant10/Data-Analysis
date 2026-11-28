@@ -117,17 +117,3 @@ jupyter notebook data_analysis.ipynb
 ```
 
 Run the notebook cells from top to bottom. The CSV is loaded by a relative filename, so keep the notebook and CSV together in this folder.
-
-## Repository Layout
-
-```text
-Ecommerce/
-├── README.md
-├── consumer_shopping_behavior_survey.csv
-├── data_analysis.ipynb
-└── assets/
-    ├── age-distribution.png
-    ├── satisfaction-by-age-group.png
-    ├── payment-method-by-shopping-mode.png
-    └── discount-importance-by-shopping-mode.png
-```
