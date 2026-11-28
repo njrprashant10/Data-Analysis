@@ -62,7 +62,7 @@ Digital wallets are the leading payment method in each shopping-mode group shown
 
 ### Discount importance by shopping mode
 
-![Discount importance by shopping mode]Ecommerce/(assets/discount-importance-by-shopping-mode.png)
+![Discount importance by shopping mode](assets/discount-importance-by-shopping-mode.png)
 
 Discount-importance scores are similar across shopping modes. The median is **4 out of 5** in all three groups, suggesting discounts matter broadly in this sample rather than being unique to one channel.
 
