@@ -8,9 +8,9 @@ An exploratory analysis of **500 consumer survey responses** to understand how p
 
 | File | Description |
 | --- | --- |
-| [`consumer_shopping_behavior_survey.csv`](Ecommerce/consumer_shopping_behavior_survey.csv) | Survey dataset (500 rows, 30 columns) |
-| [`data_analysis.ipynb`](Ecommerce/data_analysis.ipynb) | Data preparation, exploratory analysis, summary tables, and charts |
-| [`assets/`](Ecommerce/assets/) | PNG exports of every visualization in the notebook |
+| [`consumer_shopping_behavior_survey.csv`](consumer_shopping_behavior_survey.csv) | Survey dataset (500 rows, 30 columns) |
+| [`data_analysis.ipynb`](data_analysis.ipynb) | Data preparation, exploratory analysis, summary tables, and charts |
+| [`assets/`](assets/) | PNG exports of every visualization in the notebook |
 
 ## Questions Explored
 
@@ -44,19 +44,19 @@ The notebook loads the CSV, checks its shape, columns, missing values, and dupli
 
 ### Age distribution
 
-![Distribution of respondent ages](Ecommerce/assets/age-distribution.png)
+![Distribution of respondent ages](assets/age-distribution.png)
 
 The sample is concentrated among younger adults: the **18–25** group is the largest, followed by respondents aged **26–35**. The plotted distribution is based on the 470 numeric ages.
 
 ### Average online-shopping satisfaction by age
 
-![Average online shopping satisfaction by age group](Ecommerce/assets/satisfaction-by-age-group.png)
+![Average online shopping satisfaction by age group](assets/satisfaction-by-age-group.png)
 
 Mean satisfaction is similar across observed age groups, ranging from **7.02 to 7.25**. The under-18 group has the highest observed average (**7.25**); the 36–50 group has the lowest (**7.02**). These small differences do not by themselves establish meaningful differences between age groups.
 
 ### Preferred payment method by shopping mode
 
-![Preferred payment method by shopping mode](Ecommerce/assets/payment-method-by-shopping-mode.png)
+![Preferred payment method by shopping mode](assets/payment-method-by-shopping-mode.png)
 
 Digital wallets are the leading payment method in each shopping-mode group shown: **39%** among online-only shoppers, **35%** among respondents who use an equal mix, and **34%** among in-store-only shoppers. The percentages are within each shopping-mode row.
 
